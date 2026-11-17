@@ -293,3 +293,17 @@ This repository showcases Naya Prayog Technologies' school fee management softwa
 For customisation, pricing, implementation, or integration enquiries, contact our team.
 
 **Note:** This repository is a proprietary service and solution showcase. It does not grant permission to redistribute, resell, or commercially use Naya Prayog Technologies' proprietary materials or intellectual property.
+
+<!-- screenshots -->
+## Screenshots
+
+**Dashboard**
+
+![Dashboard](screenshots/1-dashboard.png)
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>Collect</b><br><br><img src="screenshots/2-collect.png" alt="Collect"></td>
+    <td align="center" width="50%"><b>Defaulters</b><br><br><img src="screenshots/3-defaulters.png" alt="Defaulters"></td>
+  </tr>
+</table>
